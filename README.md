@@ -17,6 +17,10 @@ cover at the back for product
 
 <img width="530" height="499" alt="Screenshot 2026-10-10 at 11 11 45 PM" src="https://github.com/user-attachments/assets/b792a34c-022e-40b2-929a-79987239f8fd" />
 
+# Full CAD assembly
+<img width="411" height="506" alt="Screenshot 2026-10-14 at 7 36 30 PM" src="https://github.com/user-attachments/assets/40617422-59b5-4a7e-a441-8233418680ca" />
+
+
 # Circuit
 
 <img width="545" height="644" alt="Screenshot 2026-10-10 at 11 14 27 PM" src="https://github.com/user-attachments/assets/49a6be98-7902-460a-a4fb-7c8b4d232c2b" />
@@ -77,4 +81,5 @@ Solution: add timer in loop() that dims the screen backlight pin after 5 minutes
 # Credits
 * **[OpenSky Network](https://opensky-network.org/)** - For providing free live ADS-B flight data via REST API
 * **[TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)** - Display driver library by Bodmer for driving the GC9A01 screen over SPI
+* **[GrabCAD](https://grabcad.com/library)** - CAD electronic models for full cad assembly
 * **[Hack Club Forge](https://forge.hackclub.com/)** - For supporting projects
